@@ -1,6 +1,28 @@
 <!DOCTYPE html>
 <html lang="en" >
 <head>
+  <style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
   <meta charset="UTF-8">
   <title>Francis Fortin - About</title>
   <link rel="stylesheet" href="./style.css">
@@ -14,6 +36,20 @@
   <p>Birds and shenanigans</p>
 </div>
 <!-- partial -->
+<div class="gallery">
+  <a target="_blank" href="img_5terre.jpg">
+    <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/pro_birds/IMG_0256.jpg">
+    <img src="/pro_birds/IMG_0256.jpg" alt="test" width="600" height="400">
+  </a>
+  <div class="desc">This is a bird test.</div>
+</div>
+ 
   
 </body>
 </html>
