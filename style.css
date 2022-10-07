@@ -47,7 +47,16 @@ nav a:hover{
   margin: 40px 60px;
   width: 720px;
 }
+.float-container {
+    padding: 20px;
+}
 
+.float-child {
+    width: 45vw;
+    float: left;
+    padding: 0px;
+    
+} 
 .citations{
   margin: 40px 40px;
   height: 300px;
