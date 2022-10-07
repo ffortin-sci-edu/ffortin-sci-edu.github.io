@@ -13,7 +13,7 @@ document.write(`
 <nav>
   <ul>
     <li><a href="https://ffortin-sci-edu.github.io/index.html">Home</a></li>
-    <li><a href="https://ffortin-sci-edu.github.io/CV_Fortin.pdf" target="_blank" rel="noreferrer noopener">CV</a></li>
+    <li><a href="https://ffortin-sci-edu.github.io/CV_FORTIN_FR.pdf" target="_blank" rel="noreferrer noopener">CV</a></li>
     <li><a href="https://ffortin-sci-edu.github.io/Publications.html">Publications</a></li>
     <li><a href="https://ffortin-sci-edu.github.io/Enseignement.html">Teachings</a></li>
     <li><a href="https://ffortin-sci-edu.github.io/misc.html">About</a></li>
