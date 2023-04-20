@@ -60,6 +60,7 @@ document.write(`
           <ul class="app-bar-menu order-2 order-lg-1">
             <li><a href="index.html">Home</a></li>
             <li><a href="Publications.html">Publications</a></li>
+            <li><a href="oral_contributions.html">Oral Contributions</a></li>
             <li><a href="Enseignement.html">Teachings</a></li>
             <li><a href="https://binary-revolution.github.io/HMXBwebcat/index.html">HMXB CATALOGUE</a></li>
           </ul>
