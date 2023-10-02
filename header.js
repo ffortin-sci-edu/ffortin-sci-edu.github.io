@@ -33,11 +33,11 @@ document.write(`
           <div class="cell-sm-6">
             <a class="logo no-decor">
               <h3 class="logo"><b>Francis Fortin</b></h3>
-              <span class="logo-sub">LabEx UnivEarthS Postdoctoral Fellow</span>
+              <span class="logo-sub">CNES Postdoctoral Fellow</span>
             </a>
           </div>
           <div class="" align="left" width="20vw">
-            <img src="./pictures/logo_banner.png" alt="logos" style="position:relative; color:black; right:100px; top:0px;" align="left" width="500vw">
+            <img src="./pictures/new_logo_banner.png" alt="logos" style="position:relative; color:black; right:100px; top:0px;" align="left" width="500vw">
           </div>
         </div>
       </div>
