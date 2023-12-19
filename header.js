@@ -62,7 +62,8 @@ document.write(`
             <li><a href="Publications.html">Publications</a></li>
             <li><a href="oral_contributions.html">Oral Contributions</a></li>
             <li><a href="Enseignement.html">Teachings</a></li>
-            <li><a href="https://binary-revolution.github.io/HMXBwebcat/index.html">HMXB CATALOGUE</a></li>
+            <li><a href="https://binary-revolution.github.io/HMXBwebcat/index.html" target="_blank" rel="noreferrer noopener"> HMXB CATALOGUE &nbsp;&nbsp;<img src="./pictures/HMXBfavicon.ico"></a></li>
+            <li><a href="https://binary-revolution.github.io/LMXBwebcat/index.html" target="_blank" rel="noreferrer noopener"> LMXB CATALOGUE &nbsp;&nbsp;<img src="./pictures/LMXBfavicon.ico"></a></li>
           </ul>
 
           <div class="app-bar-container ml-auto order-1 order-lg-2">
